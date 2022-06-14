@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Luv-crypto
 - 👀 I’m interested in DataScience and AI
-- 🌱 I’m currently learning Data Analysis
+- 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on DataScience Projects
 - 📫 How to reach me email:- lfadia11@gmail.com ,linkedin:-https://www.linkedin.com/in/love-fadia-b05a961a0/
 <!---
